@@ -1,3 +1,7 @@
+# Windows
+## Step 1: Install [Python 2.7 or 3.6](https://www.python.org/downloads/)
+
+# Mac OSX
 ## Step 1: Install Homebrew
 ```
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -33,7 +37,13 @@ brew list | grep 'boost'
 
 ## [Read More...](https://www.pyimagesearch.com/2015/04/27/installing-boost-and-boost-python-on-osx-with-homebrew/)
 
-## Install OpenCV
+
+# How to use ```face_recognition```
+
+## ```pip``` or ```pip2``` for python2 
+## ```pip3``` for python3
+
+## Install OpenCV 
 ```
 pip install opencv-python
 ```

@@ -40,20 +40,22 @@ brew list | grep 'boost'
 
 # How to use ```face_recognition```
 
+## Step 1: Copy image to ```image``` directory
+
 ## ```pip``` or ```pip2``` for python2 
 ## ```pip3``` for python3
 
-## Install OpenCV 
+## Step 2: Install OpenCV 
 ```
 pip install opencv-python
 ```
 
-## Install face_recognition
+## Step 3: Install face_recognition
 ```
 pip install face_recognition
 ```
 
-## Run
+## Step 4: Run
 ```
 python main.py
 ```
